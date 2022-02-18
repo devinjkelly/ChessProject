@@ -33,6 +33,12 @@ namespace ChessCreation
             //If a piece is attacked it is removed from the game, unless pawn recovers piece.
         }
 
+        public void CheckDestination()
+        {
+            //Making sure where it can legally move.
+        }
+
+
 
 
     }

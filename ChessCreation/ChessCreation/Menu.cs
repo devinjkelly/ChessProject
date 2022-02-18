@@ -9,7 +9,7 @@ namespace ChessCreation
     class Menu
     {
         public string UserInput { get; set; }
-        public
+        
 
 
 
